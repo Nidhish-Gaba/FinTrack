@@ -1,0 +1,12 @@
+[
+  { "id": "t1", "type": "income", "category": "Salary", "amount": 45000, "note": "August salary", "date": "2026-08-01" },
+  { "id": "t2", "type": "expense", "category": "Bills", "amount": 3200, "note": "Electricity + Wi-Fi", "date": "2026-08-03" },
+  { "id": "t3", "type": "expense", "category": "Food", "amount": 1450, "note": "Groceries", "date": "2026-08-05" },
+  { "id": "t4", "type": "expense", "category": "Transport", "amount": 600, "note": "Auto + metro card recharge", "date": "2026-08-06" },
+  { "id": "t5", "type": "income", "category": "Freelance", "amount": 8000, "note": "Logo design project", "date": "2026-08-09" },
+  { "id": "t6", "type": "expense", "category": "Entertainment", "amount": 900, "note": "Movie night", "date": "2026-08-11" },
+  { "id": "t7", "type": "expense", "category": "Education", "amount": 2500, "note": "Online course", "date": "2026-08-14" },
+  { "id": "t8", "type": "expense", "category": "Shopping", "amount": 1800, "note": "New shoes", "date": "2026-08-17" },
+  { "id": "t9", "type": "expense", "category": "Health", "amount": 500, "note": "Pharmacy", "date": "2026-08-19" },
+  { "id": "t10", "type": "income", "category": "Investment", "amount": 1200, "note": "Mutual fund dividend", "date": "2026-08-20" }
+]
